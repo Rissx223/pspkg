@@ -1,0 +1,6518 @@
+{
+  "source": "https://pspkg.com/arabic-games/?filters%5B%5D=ps4",
+  "source_name": "PSPKG Arabic Games",
+  "filters": {
+    "platform": "PS4"
+  },
+  "extracted_at": "2026-11-05T23:30:19+01:00",
+  "pages_checked": 23,
+  "count": 442,
+  "games": [
+    {
+      "id": "152",
+      "title": "Under The Waves",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 3207,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/under-the-waves-arabic-152.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69ad64e58187e.webp?v=37a749d8"
+    },
+    {
+      "id": "14110",
+      "title": "Bendy and the Ink Machine",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "جديدة"
+      ],
+      "downloads": 260,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/bendy-and-the-ink-machine-14110.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/bendy-and-the-ink-machine.webp?v=4427350b"
+    },
+    {
+      "id": "14109",
+      "title": "Disney Pixar Toy Story 3 Complete Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "جديدة",
+        "شائعة"
+      ],
+      "downloads": 1781,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/disney-pixar-toy-story-3-complete-edition-14109.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/disney-pixar-toy-story-3-complete-edition.webp?v=5847c1b5"
+    },
+    {
+      "id": "209",
+      "title": "Dragon Ball Z Kakarot",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 17455,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/dragon-ball-z-kakarot-arabic-209.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945489bb900e.webp?v=b1d10e7b"
+    },
+    {
+      "id": "190",
+      "title": "Marvels Avengers",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة ومترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 11944,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/marvels-avengers-arabic-190.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3d08304b799.webp?v=cfecdb27"
+    },
+    {
+      "id": "7160",
+      "title": "Kena Bridge of Spirits",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة قوائم و حورات"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 9494,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/kena-bridge-of-spirits-7160.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69b050a602cba.webp?v=525b8410"
+    },
+    {
+      "id": "228",
+      "title": "Ghost of Tsushima Directors Cut",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 80270,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/ghost-of-tsushima-directors-cut-arabic-228.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/696fe70ebd269.webp?v=74db120f"
+    },
+    {
+      "id": "166",
+      "title": "Little Nightmares",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 31110,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/little-nightmares-arabic-166.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69788f0052de0.webp?v=7e7757b1"
+    },
+    {
+      "id": "163",
+      "title": "Little Nightmares 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 23101,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/little-nightmares-2-arabic-163.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/697890ba72c93.webp?v=0777d5c1"
+    },
+    {
+      "id": "7105",
+      "title": "Little Nightmares 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 23440,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/little-nightmares-3-7105.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/little-nightmares-3.webp?v=4cc05b35"
+    },
+    {
+      "id": "174",
+      "title": "Mafia 2  Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 15695,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/mafia-2-definitive-edition-arabic-174.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694eccf288d89.webp?v=bf822969"
+    },
+    {
+      "id": "175",
+      "title": "Mafia Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 30402,
+      "rating": 3.4,
+      "url": "https://pspkg.com/arabic-games/mafia-definitive-edition-arabic-175.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6946898b43244.webp?v=82161242"
+    },
+    {
+      "id": "86",
+      "title": "Stray",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 31481,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/stray-arabic-86.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692cf44938789.webp?v=93db85ed"
+    },
+    {
+      "id": "89",
+      "title": "Tekken 7 Ultimate Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 17107,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/tekken-7-ultimate-edition-arabic-89.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a8eaeb29201a.webp?v=7647966b"
+    },
+    {
+      "id": "218",
+      "title": "The Elder Scrolls V Skyrim Special Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 5173,
+      "rating": 3.2,
+      "url": "https://pspkg.com/arabic-games/the-elder-scrolls-v-skyrim-special-edition-arabic-218.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6ea04230059.webp?v=e96ed478"
+    },
+    {
+      "id": "208",
+      "title": "Darksiders 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 2505,
+      "rating": 1.8,
+      "url": "https://pspkg.com/arabic-games/darksiders-3-arabic-208.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a330add99af3.webp?v=091d584f"
+    },
+    {
+      "id": "7702",
+      "title": "Knowledge is power",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 1203,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/knowledge-is-power-7702.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/knowledge-is-power.webp?v=8fc4bc38"
+    },
+    {
+      "id": "221",
+      "title": "Watch Dogs Legion",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 7066,
+      "rating": 3.6,
+      "url": "https://pspkg.com/arabic-games/watch-dogs-legion-arabic-221.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a05485f3e91d.webp?v=060ad924"
+    },
+    {
+      "id": "148",
+      "title": "Like A Dragon Ishin Deluxe",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "محدث",
+        "شائعة"
+      ],
+      "downloads": 2370,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/like-a-dragon-ishin-deluxe-arabic-148.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a134bed63cc4.webp?v=47d1e990"
+    },
+    {
+      "id": "7899",
+      "title": "I Saw Black Clouds",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "محدث"
+      ],
+      "downloads": 858,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/i-saw-black-clouds-7899.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/i-saw-black-clouds.webp?v=7c792a82"
+    },
+    {
+      "id": "7902",
+      "title": "MADISON",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 3083,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/madison-7902.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/madison.webp?v=66fe2bcc"
+    },
+    {
+      "id": "9861",
+      "title": "The Grinch: Christmas Adventures",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 314,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-grinch-christmas-adventures-9861.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-grinch-christmas-adventures.webp?v=5b9373fc"
+    },
+    {
+      "id": "9967",
+      "title": "Styx: Shards of Darkness",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 777,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/styx-shards-of-darkness-9967.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/styx-shards-of-darkness.webp?v=554644c0"
+    },
+    {
+      "id": "9864",
+      "title": "Xuan Yuan Sword 7",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 948,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/xuan-yuan-sword-7-9864.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/xuan-yuan-sword-7.webp?v=06d17240"
+    },
+    {
+      "id": "13707",
+      "title": "Insurgency Sandstorm",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 2676,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/insurgency-sandstorm-13707.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/insurgency-sandstorm.webp?v=74322d3e"
+    },
+    {
+      "id": "13970",
+      "title": "Silent Hill 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 1294,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/silent-hill-2-1-13970.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/silent-hill-2-1.webp?v=4641f63d"
+    },
+    {
+      "id": "6961",
+      "title": "Hitman Game of The Year Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم فقط"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 34437,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/hitman-game-of-the-year-edition-6961.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3820066c6c0.webp?v=09779bb7"
+    },
+    {
+      "id": "120",
+      "title": "Ikai",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 988,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/ikai-arabic-120.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3c983e2e9cc.webp?v=da4fb5c6"
+    },
+    {
+      "id": "7666",
+      "title": "Gylt",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 2473,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/gylt-7666.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/gylt.webp?v=10787834"
+    },
+    {
+      "id": "78",
+      "title": "Destroy All Humans Clone Carnage",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 942,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/destroy-all-humans-clone-carnage-arabic-78.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a4645bbaf1e5.webp?v=35f4a8d4"
+    },
+    {
+      "id": "7615",
+      "title": "The Walking Dead The Telltale Series A New Frontier",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 5700,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/the-walking-dead-the-telltale-series-a-new-frontier-7615.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-walking-dead-the-telltale-series-a-new-frontier.webp?v=5a0c8283"
+    },
+    {
+      "id": "7657",
+      "title": "Far Changing Tides",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 1165,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/far-changing-tides-7657.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/far-changing-tides.webp?v=82674fc2"
+    },
+    {
+      "id": "143",
+      "title": "Outlast 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 10069,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/outlast-2-arabic-143.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a43b60b47f4c.webp?v=903ce922"
+    },
+    {
+      "id": "7149",
+      "title": "Lost in Random",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة قوائم و حورات"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 2220,
+      "rating": 1.5,
+      "url": "https://pspkg.com/arabic-games/lost-in-random-7149.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a75725ccdadb.webp?v=16f852a6"
+    },
+    {
+      "id": "7609",
+      "title": "Kingdom Come: Deliverance Royale Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 4441,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/kingdom-come-deliverance-royale-edition-7609.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/kingdom-come-deliverance-royale-edition.webp?v=01b36d0e"
+    },
+    {
+      "id": "7658",
+      "title": "Murdered Soul Suspect",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 1305,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/murdered-soul-suspect-7658.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/murdered-soul-suspect.webp?v=e77910eb"
+    },
+    {
+      "id": "7610",
+      "title": "Werewolf The Apocalypse Earthblood",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 3028,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/werewolf-the-apocalypse-earthblood-7610.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/werewolf-the-apocalypse-earthblood.webp?v=dea18482"
+    },
+    {
+      "id": "7649",
+      "title": "Overcooked 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 8245,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/overcooked-2-7649.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/overcooked-2.webp?v=df7e148c"
+    },
+    {
+      "id": "6963",
+      "title": "Rayman Legends",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 18494,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/rayman-legends-6963.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/697d25c0787c8.webp?v=6f5e4e86"
+    },
+    {
+      "id": "7607",
+      "title": "The Pathless",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 1439,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/the-pathless-7607.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-pathless.webp?v=4efc9e02"
+    },
+    {
+      "id": "7156",
+      "title": "Star Wars Battlefront rogue",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 1302,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/star-wars-battlefront-rogue-7156.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/star-wars-battlefront-rogue.webp?v=4bb236de"
+    },
+    {
+      "id": "7668",
+      "title": "High on life",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 2472,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/high-on-life-7668.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/high-on-life.webp?v=b4d6f2b5"
+    },
+    {
+      "id": "189",
+      "title": "The Quarry Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 4660,
+      "rating": 2.3,
+      "url": "https://pspkg.com/arabic-games/the-quarry-deluxe-edition-arabic-189.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6e9cc067bcf.webp?v=a2557a7b"
+    },
+    {
+      "id": "7038",
+      "title": "Resident Evil HD Remaster",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 5382,
+      "rating": 2.0,
+      "url": "https://pspkg.com/arabic-games/resident-evil-hd-remaster-7038.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a713f45af841.webp?v=b19d3c9e"
+    },
+    {
+      "id": "7670",
+      "title": "Call of Cthulhu",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 461,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/call-of-cthulhu-7670.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/call-of-cthulhu.webp?v=933596b8"
+    },
+    {
+      "id": "7669",
+      "title": "Strayed Lights",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 728,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/strayed-lights-7669.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/strayed-lights.webp?v=9c16f660"
+    },
+    {
+      "id": "92",
+      "title": "WWE 2K22",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 2646,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/wwe-2k22-arabic-92.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/WWE%202K22.webp?v=92cc2275"
+    },
+    {
+      "id": "114",
+      "title": "PES 6 Classic World Cup",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 6451,
+      "rating": 2.0,
+      "url": "https://pspkg.com/arabic-games/pes-6-classic-world-cup-arabic-114.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a739c237ec52.webp?v=5fd0b37c"
+    },
+    {
+      "id": "6927",
+      "title": "Lost Ember",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 820,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/lost-ember-6927.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692d01e149c07.webp?v=0ad5292c"
+    },
+    {
+      "id": "7060",
+      "title": "PES eFootball UFL",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 5162,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/pes-efootball-ufl-7060.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-efootball-ufl.webp?v=ab4c3893"
+    },
+    {
+      "id": "131",
+      "title": "WRC 10 FIA World Rally Championship",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 3550,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/wrc-10-fia-world-rally-championship-arabic-131.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a7ed1a3e66ed.webp?v=1afa34a7"
+    },
+    {
+      "id": "7030",
+      "title": "The forest",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Updated",
+        "Popular"
+      ],
+      "downloads": 9982,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/the-forest-7030.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6aa0a7c457aea.webp?v=b25b911f"
+    },
+    {
+      "id": "14108",
+      "title": "Manhunt 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Updated"
+      ],
+      "downloads": 386,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/manhunt-2-14108.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/manhunt-2.webp?v=e3efff5e"
+    },
+    {
+      "id": "14107",
+      "title": "The Walking Dead",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1123,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/the-walking-dead-14107.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-walking-dead.webp?v=01471e17"
+    },
+    {
+      "id": "14106",
+      "title": "Dead Cells",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [],
+      "downloads": 722,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/dead-cells-14106.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/dead-cells.webp?v=8b2af218"
+    },
+    {
+      "id": "14105",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1666,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/metal-gear-solid-v-the-phantom-pain-14105.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-v-the-phantom-pain.webp?v=bcb2f489"
+    },
+    {
+      "id": "249",
+      "title": "Call of Duty Black Ops Cold War",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 18535,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-cold-war-arabic-249.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6975fb3194ae1.webp?v=077e29b1"
+    },
+    {
+      "id": "176",
+      "title": "Call of Duty: Black Ops III",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 64562,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-iii-arabic-176.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6ae1a7f0748a5.webp?v=38af8613"
+    },
+    {
+      "id": "14099",
+      "title": "Sniper Ghost Warrior Contracts 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4128,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/sniper-ghost-warrior-contracts-2-14099.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sniper-ghost-warrior-contracts-2.webp?v=5bebd340"
+    },
+    {
+      "id": "13751",
+      "title": "EA Sports FC 27",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم عربية وتعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 134331,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/ea-sports-fc-27-13751.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6aaf187c2482a.webp?v=72a6d73a"
+    },
+    {
+      "id": "126",
+      "title": "Visage",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4266,
+      "rating": 3.2,
+      "url": "https://pspkg.com/arabic-games/visage-arabic-126.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69aae797dc928.webp?v=069059b7"
+    },
+    {
+      "id": "136",
+      "title": "Blair Witch",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2419,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/blair-witch-arabic-136.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69ad481159856.webp?v=42a0e188"
+    },
+    {
+      "id": "252",
+      "title": "The last of us Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 141541,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/the-last-of-us-remastered-arabic-252.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694ef2bcd0fbb.webp?v=03c6b069"
+    },
+    {
+      "id": "14090",
+      "title": "OMORI",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [],
+      "downloads": 843,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/omori-14090.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/omori.webp?v=7884205c"
+    },
+    {
+      "id": "7684",
+      "title": "Grand Theft Auto V Arabic",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 33634,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-v-arabic-7684.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-v-arabic.webp?v=af1c25e8"
+    },
+    {
+      "id": "14088",
+      "title": "The Walking Dead: Season Two",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1597,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/the-walking-dead-season-two-14088.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-walking-dead-season-two.webp?v=3af3d94f"
+    },
+    {
+      "id": "14087",
+      "title": "NieR Replicant",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1592,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/nier-replicant-14087.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/nier-replicant.webp?v=49c3816d"
+    },
+    {
+      "id": "14086",
+      "title": "Manhunt",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1011,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/manhunt-14086.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/manhunt.webp?v=8efa9015"
+    },
+    {
+      "id": "14083",
+      "title": "The Last Faith",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [],
+      "downloads": 600,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/the-last-faith-14083.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-last-faith.webp?v=e671ed4f"
+    },
+    {
+      "id": "14082",
+      "title": "POST VOID",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [],
+      "downloads": 321,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/post-void-14082.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/post-void.webp?v=ee0f827f"
+    },
+    {
+      "id": "14080",
+      "title": "Call of Duty: Black Ops",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11257,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-14080.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/call-of-duty-black-ops.webp?v=c04a5ed0"
+    },
+    {
+      "id": "7140",
+      "title": "Poppy Playtime: Chapter 1",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 24254,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/poppy-playtime-7140.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/699ec0113ee3b.webp?v=348a38cd"
+    },
+    {
+      "id": "14079",
+      "title": "Pumpkin Jack",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم فقط"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1456,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/pumpkin-jack-14079.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pumpkin-jack.webp?v=e64caaff"
+    },
+    {
+      "id": "14076",
+      "title": "Call of Duty: Black Ops II",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10756,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-ii-14076.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/call-of-duty-black-ops-ii.webp?v=3f279841"
+    },
+    {
+      "id": "275",
+      "title": "Call of Duty: Modern Warfare II + III",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 49638,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-ii-iii-arabic-275.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693d41f7d259b.webp?v=63923f49"
+    },
+    {
+      "id": "14072",
+      "title": "Red Dead Redemption",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9550,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/red-dead-redemption-14072.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/red-dead-redemption.webp?v=87beda25"
+    },
+    {
+      "id": "14067",
+      "title": "The Wolf Among Us",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2063,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/the-wolf-among-us-14067.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-wolf-among-us.webp?v=f4cfab79"
+    },
+    {
+      "id": "14066",
+      "title": "TRANSFORMERS EARTHSPARK Expedition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [],
+      "downloads": 529,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/transformers-earthspark-expedition-14066.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/transformers-earthspark-expedition.webp?v=972494a2"
+    },
+    {
+      "id": "14065",
+      "title": "Beyond a Steel Sky",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [],
+      "downloads": 347,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/beyond-a-steel-sky-14065.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/beyond-a-steel-sky.webp?v=7dc64857"
+    },
+    {
+      "id": "14063",
+      "title": "Monster Hunter World Iceborne Master edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1415,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/monster-hunter-world-iceborne-master-edition-14063.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/monster-hunter-world-iceborne-master-edition.webp?v=1a62026e"
+    },
+    {
+      "id": "14061",
+      "title": "Road 96",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3915,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/road-96-14061.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/road-96.webp?v=a9dab015"
+    },
+    {
+      "id": "14059",
+      "title": "Nine Sols",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2583,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/nine-sols-14059.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/nine-sols.webp?v=3b87a374"
+    },
+    {
+      "id": "14058",
+      "title": "Sherlock Holmes chapter one",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1380,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/sherlock-holmes-chapter-one-14058.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sherlock-holmes-chapter-one.webp?v=91836ea2"
+    },
+    {
+      "id": "14057",
+      "title": "The Lego move 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [],
+      "downloads": 557,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-lego-move-2-14057.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-lego-move-2.webp?v=f9becb4f"
+    },
+    {
+      "id": "13738",
+      "title": "Star wars jedi Fallen order",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3245,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/star-wars-jedi-fallen-order-13738.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/star-wars-jedi-fallen-order.webp?v=9ab05403"
+    },
+    {
+      "id": "14055",
+      "title": "Jet Li: Rise to Honor",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2404,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/jet-li-rise-to-honor-14055.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/jet-li-rise-to-honor.webp?v=9f9d7d03"
+    },
+    {
+      "id": "7563",
+      "title": "Mortal shell",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3683,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/mortal-shell-7563.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69f3ef2ad1630.webp?v=0ce98f53"
+    },
+    {
+      "id": "7594",
+      "title": "Poppy Playtime Chapter 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب كامل"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11718,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/poppy-playtime-chapter-2-7594.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/poppy-playtime-chapter-2.webp?v=f26bdcba"
+    },
+    {
+      "id": "14054",
+      "title": "Medal of Honor: Vanguard",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1380,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/medal-of-honor-vanguard-14054.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/medal-of-honor-vanguard.webp?v=872fb3fb"
+    },
+    {
+      "id": "7098",
+      "title": "Assassin's Creed Valhalla",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 20656,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/assassin-s-creed-valhalla-7098.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69697e68f0801.webp?v=57342f6b"
+    },
+    {
+      "id": "14051",
+      "title": "Sherlock Holmes The Devils Daughter",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1059,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/sherlock-holmes-the-devils-daughter-14051.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sherlock-holmes-the-devils-daughter.webp?v=66894012"
+    },
+    {
+      "id": "14015",
+      "title": "Sherlock Holmes The Awakened Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1517,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/sherlock-holmes-the-awakened-deluxe-edition-14015.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sherlock-holmes-the-awakened-deluxe-edition.webp?v=fb7b1850"
+    },
+    {
+      "id": "224",
+      "title": "Cyberpunk 2077",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 22760,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/cyberpunk-2077-arabic-224.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a8ebd2b1305e.webp?v=13fe9d84"
+    },
+    {
+      "id": "14035",
+      "title": "RiMS Racing",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2099,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/rims-racing-14035.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/rims-racing.webp?v=5cc57868"
+    },
+    {
+      "id": "14034",
+      "title": "Marvel vs Capcom Fighting Collection",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وتعليمات"
+      ],
+      "badges": [],
+      "downloads": 639,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/marvel-vs-capcom-fighting-collection-14034.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/marvel-vs-capcom-fighting-collection.webp?v=8db7b8a0"
+    },
+    {
+      "id": "125",
+      "title": "The Dark Pictures Anthology Man of Medan",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2758,
+      "rating": 2.0,
+      "url": "https://pspkg.com/arabic-games/the-dark-pictures-anthology-man-of-medan-arabic-125.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/698c7dbd7dcb6.webp?v=3def184a"
+    },
+    {
+      "id": "127",
+      "title": "The Dark Pictures Anthology House of Ashes",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3814,
+      "rating": 2.8,
+      "url": "https://pspkg.com/arabic-games/the-dark-pictures-anthology-house-of-ashes-arabic-127.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a121cc3d2b2.webp?v=ec5decca"
+    },
+    {
+      "id": "7602",
+      "title": "Lego marvel superheroes 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2037,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/lego-marvel-superheroes-2-7602.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3a1cc059fcc.webp?v=b3d6e130"
+    },
+    {
+      "id": "230",
+      "title": "Spider Man Miles Morales",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 68193,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/spider-man-miles-morales-arabic-230.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6941191b249dc.webp?v=6da9003b"
+    },
+    {
+      "id": "14002",
+      "title": "eFootball 2027",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعليق و قوائم عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8513,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/efootball-2027-14002.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-2027.webp?v=86158a6b"
+    },
+    {
+      "id": "14016",
+      "title": "Journey",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3153,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/journey-14016.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/journey.webp?v=a793d307"
+    },
+    {
+      "id": "234",
+      "title": "A Plague Tale Innocence",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 34713,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/a-plague-tale-innocence-arabic-234.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/696d358752183.webp?v=289dff07"
+    },
+    {
+      "id": "217",
+      "title": "Resident Evil 7 Biohazard Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب كامل"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 44757,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/resident-evil-7-biohazard-gold-edition-arabic-217.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694989890687b.webp?v=63dc7ed1"
+    },
+    {
+      "id": "225",
+      "title": "Horizon Zero Dawn Complete Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 28197,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/horizon-zero-dawn-complete-edition-arabic-225.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c6c89869176.webp?v=d1c38a09"
+    },
+    {
+      "id": "235",
+      "title": "God of War 3 Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 103265,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/god-of-war-3-remastered-arabic-235.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692e38fe79c42.webp?v=577ef115"
+    },
+    {
+      "id": "178",
+      "title": "Call of Duty WWII",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 39891,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-wwii-arabic-178.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693ba763c2da6.webp?v=8f855179"
+    },
+    {
+      "id": "243",
+      "title": "Call of Duty Black Ops 6",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 37969,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-6-arabic-243.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693c01a0224a0.webp?v=cb70ab37"
+    },
+    {
+      "id": "199",
+      "title": "It Takes Two",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 53688,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/it-takes-two-arabic-199.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dbe0dd558e8.webp?v=84d9ee44"
+    },
+    {
+      "id": "7092",
+      "title": "Hollow Knight Silksong",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 25275,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/hollow-knight-silksong-7092.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/hollow-knight-silksong.webp?v=d4a93297"
+    },
+    {
+      "id": "248",
+      "title": "Hollow Knight Voidheart Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 24239,
+      "rating": 2.5,
+      "url": "https://pspkg.com/arabic-games/hollow-knight-voidheart-edition-arabic-248.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/695930be53f88.webp?v=621bf66d"
+    },
+    {
+      "id": "123",
+      "title": "The Dark Pictures Anthology Little Hope",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3450,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/the-dark-pictures-anthology-little-hope-arabic-123.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6990d3b9f03c3.webp?v=202cb962"
+    },
+    {
+      "id": "14008",
+      "title": "Paint the Town Red",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1420,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/paint-the-town-red-14008.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/paint-the-town-red.webp?v=a08fe31c"
+    },
+    {
+      "id": "111",
+      "title": "Evil West",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8289,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/evil-west-arabic-111.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a020901820a9.webp?v=698d51a1"
+    },
+    {
+      "id": "7691",
+      "title": "eFootball pes monster patch 27",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23241,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-monster-patch-27-7691.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-monster-patch-27.webp?v=c74c4bf0"
+    },
+    {
+      "id": "214",
+      "title": "Resident Evil 4 Remake Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 115833,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/resident-evil-4-remake-gold-edition-arabic-214.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a96ad1a7b256.webp?v=ca46c1b9"
+    },
+    {
+      "id": "7641",
+      "title": "eFootball PES 2026 (Monster Patch World Cup)",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6731,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2026-monster-patch-world-cup-7641.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-2026-monster-patch-world-cup.webp?v=bc3ea216"
+    },
+    {
+      "id": "277",
+      "title": "Battlefield 1",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23343,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/battlefield-1-arabic-277.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69454710d035d.webp?v=20f07591"
+    },
+    {
+      "id": "151",
+      "title": "Battlefield V",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14157,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/battlefield-v-arabic-151.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694543ee6287d.webp?v=a8f15eda"
+    },
+    {
+      "id": "227",
+      "title": "Dark Souls 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14189,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/dark-souls-3-arabic-227.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6956f2d3c649d.webp?v=705f2172"
+    },
+    {
+      "id": "7091",
+      "title": "Dark Souls Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 12885,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/dark-souls-remastered-7091.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/dark-souls-remastered.webp?v=32834780"
+    },
+    {
+      "id": "236",
+      "title": "God of War Ragnarök",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة + مدبجلة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 106847,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/god-of-war-ragnark-arabic-236.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/696bebc28b077.webp?v=01161aaa"
+    },
+    {
+      "id": "210",
+      "title": "Dying Light 2 Stay Human",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13682,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/dying-light-2-stay-human-arabic-210.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6975f6cfa1f33.webp?v=6f3ef77a"
+    },
+    {
+      "id": "7089",
+      "title": "Dark Souls 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجم"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6025,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/dark-souls-2-7089.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6956dd067e57d.webp?v=ff096d0e"
+    },
+    {
+      "id": "90",
+      "title": "The Witcher 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 26834,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/the-witcher-3-arabic-90.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dd73b9c82eb.webp?v=8613985e"
+    },
+    {
+      "id": "251",
+      "title": "Red Dead Redemption 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 260448,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/red-dead-redemption-2-arabic-251.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0c1e6846527.webp?v=19f3cd30"
+    },
+    {
+      "id": "7093",
+      "title": "Nioh Complete Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6260,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/nioh-complete-edition-7093.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/nioh-complete-edition.webp?v=9ae0a504"
+    },
+    {
+      "id": "7097",
+      "title": "Sifu",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 17302,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/sifu-7097.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sifu.webp?v=993edc98"
+    },
+    {
+      "id": "177",
+      "title": "Call of Duty Infinite Warfare",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3568,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-infinite-warfare-arabic-177.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a72508ae9ad1.webp?v=96da2f59"
+    },
+    {
+      "id": "7593",
+      "title": "SENUA'S SAGA HELL BLADE 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3368,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/senua-s-saga-hell-blade-2-7593.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a25450ef14a2.webp?v=3261769b"
+    },
+    {
+      "id": "162",
+      "title": "Detroit: Become Human",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 44487,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/detroit-become-human-arabic-162.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/697bf30954d70.webp?v=82aa4b0a"
+    },
+    {
+      "id": "196",
+      "title": "Assassins Creed Mirage",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 106446,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-mirage-arabic-196.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945578006a90.webp?v=084b6fbb"
+    },
+    {
+      "id": "259",
+      "title": "The Last of Us Part II",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 31290,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/the-last-of-us-part-ii-arabic-259.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694ef22d1a3fc.webp?v=cfa0860e"
+    },
+    {
+      "id": "231",
+      "title": "Marvel’s Spider-Man",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 119226,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/marvels-spiderman-arabic-231.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945292f713e6.webp?v=9b04d152"
+    },
+    {
+      "id": "247",
+      "title": "Uncharted: The Lost Legacy",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 20481,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/uncharted-the-lost-legacy-arabic-247.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c48be32d6fa.webp?v=3cec07e9"
+    },
+    {
+      "id": "6962",
+      "title": "eFootball™ 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 37013,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/efootball-2026-6962.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6abbd7e0dd3af.webp?v=5f1d3986"
+    },
+    {
+      "id": "31",
+      "title": "God of War",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13273,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/god-of-war-arabic-31.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dd6e0e55ec4.webp?v=c16a5320"
+    },
+    {
+      "id": "44",
+      "title": "God Of War II",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16530,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/god-of-war-ii-arabic-2-44.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dd6e21d752a.webp?v=f7177163"
+    },
+    {
+      "id": "238",
+      "title": "God of war 2018",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 73717,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/god-of-war-2018-arabic-238.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/696e0273ba99a.webp?v=ac1dd209"
+    },
+    {
+      "id": "232",
+      "title": "Uncharted 4 A Thiefs End",
+      "platform": "PS4",
+      "arabic_localization": [
+        "دبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 66965,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/uncharted-4-a-thiefs-end-arabic-232.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6988cc74f128b.webp?v=be83ab3e"
+    },
+    {
+      "id": "244",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 126312,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/elden-ring-shadow-of-the-erdtree-arabic-244.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/695c1497239ce.webp?v=9188905e"
+    },
+    {
+      "id": "222",
+      "title": "Sekiro Shadows Die Twice",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 72305,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/sekiro-shadows-die-twice-arabic-222.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945d170b77c3.webp?v=bcbe3365"
+    },
+    {
+      "id": "183",
+      "title": "Call of Duty Modern Warfare",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 42660,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-arabic-183.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693ca07fa76b2.webp?v=cedebb6e"
+    },
+    {
+      "id": "180",
+      "title": "Call of Duty Modern Warfare Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8699,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-remastered-arabic-180.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6944aed22a0a1.webp?v=045117b0"
+    },
+    {
+      "id": "195",
+      "title": "Assassins Creed Odyssey Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23297,
+      "rating": 3.1,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-odyssey-gold-edition-arabic-195.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a2a127127167.webp?v=0336dcba"
+    },
+    {
+      "id": "7090",
+      "title": "Days Gone",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم ودبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 70306,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/days-gone-7090.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/days-gone.webp?v=7cc980b0"
+    },
+    {
+      "id": "13969",
+      "title": "Maquette",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [],
+      "downloads": 107,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/maquette-13969.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/maquette.webp?v=3c63021d"
+    },
+    {
+      "id": "13971",
+      "title": "The Last Campfire",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [],
+      "downloads": 579,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-last-campfire-13971.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-last-campfire.webp?v=95e2b3bc"
+    },
+    {
+      "id": "107",
+      "title": "Gran Turismo 7",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7367,
+      "rating": 3.6,
+      "url": "https://pspkg.com/arabic-games/gran-turismo-7-arabic-107.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a7150e101836.webp?v=a97da629"
+    },
+    {
+      "id": "104",
+      "title": "Daymare 1994 Sandcastle",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2459,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/daymare-1994-sandcastle-arabic-104.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694ef757941f2.webp?v=c9e1074f"
+    },
+    {
+      "id": "13773",
+      "title": "What the Golf",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1124,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/what-the-golf-13773.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/what-the-golf.webp?v=c2aa4a54"
+    },
+    {
+      "id": "7901",
+      "title": "Meitantei Conan - Daiei Teikoku no Isan",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1246,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/meitantei-conan-daiei-teikoku-no-isan-7901.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6ab01aa307a06.webp?v=3e883840"
+    },
+    {
+      "id": "13750",
+      "title": "Haunting Ground",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم و حوارات"
+      ],
+      "badges": [],
+      "downloads": 570,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/haunting-ground-13750.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6ab01a77baff5.webp?v=64357314"
+    },
+    {
+      "id": "9929",
+      "title": "Destroy All Humans 2020",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 387,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/destroy-all-humans-2020-9929.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/destroy-all-humans-2020.webp?v=ade1d98c"
+    },
+    {
+      "id": "13742",
+      "title": "Lego worlds",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم و حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1225,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/lego-worlds-13742.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/lego-worlds.webp?v=bbfac18d"
+    },
+    {
+      "id": "7646",
+      "title": "Pink Panther - Pinkadelic Pursuit",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2352,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/pink-panther-pinkadelic-pursuit-7646.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pink-panther-pinkadelic-pursuit.webp?v=5af12af7"
+    },
+    {
+      "id": "13741",
+      "title": "Balan wonderworld",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم و حوارات"
+      ],
+      "badges": [],
+      "downloads": 242,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/balan-wonderworld-13741.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/balan-wonderworld.webp?v=bb41d7ba"
+    },
+    {
+      "id": "13718",
+      "title": "Typoman Revised",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2059,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/typoman-revised-13718.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6aa8da1d5ed25.webp?v=17463ec4"
+    },
+    {
+      "id": "13739",
+      "title": "In Nightmare",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [],
+      "downloads": 421,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/in-nightmare-13739.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/in-nightmare.webp?v=72fb2298"
+    },
+    {
+      "id": "13735",
+      "title": "intruders :hide and seek",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات عربية"
+      ],
+      "badges": [],
+      "downloads": 838,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/intruders-hide-and-seek-13735.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/intruders-hide-and-seek.webp?v=bcb91d59"
+    },
+    {
+      "id": "13730",
+      "title": "LEGO DC Super-Villains",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1016,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/lego-dc-super-villains-13730.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/lego-dc-super-villains.webp?v=8d97f450"
+    },
+    {
+      "id": "13729",
+      "title": "King Drift",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم و حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1169,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/king-drift-13729.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/king-drift.webp?v=aea25021"
+    },
+    {
+      "id": "13725",
+      "title": "The long journey HOME",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 121,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-long-journey-home-13725.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-long-journey-home.webp?v=626c0773"
+    },
+    {
+      "id": "13717",
+      "title": "Relicta",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 208,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/relicta-13717.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/relicta.webp?v=e3fc7251"
+    },
+    {
+      "id": "13712",
+      "title": "Remnant From the Ashes",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائ وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1236,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/remnant-from-the-ashes-13712.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/remnant-from-the-ashes.webp?v=76edf3ae"
+    },
+    {
+      "id": "13711",
+      "title": "SOMA",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 603,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/soma-13711.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/soma.webp?v=e3537ccc"
+    },
+    {
+      "id": "13709",
+      "title": "Guts and Glory",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 384,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/guts-and-glory-13709.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/guts-and-glory.webp?v=3f64b203"
+    },
+    {
+      "id": "13708",
+      "title": "The Last Kids on Earth",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 494,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-last-kids-on-earth-13708.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-last-kids-on-earth.webp?v=a0f1a068"
+    },
+    {
+      "id": "13706",
+      "title": "Tearaway unfolded",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 343,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/tearaway-unfolded-13706.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/tearaway-unfolded.webp?v=0af62754"
+    },
+    {
+      "id": "13705",
+      "title": "Agent Intercept",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 428,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/agent-intercept-13705.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/agent-intercept.webp?v=9fa315bf"
+    },
+    {
+      "id": "7696",
+      "title": "The sinking city",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2939,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-sinking-city-7696.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-sinking-city.webp?v=ac6b3cce"
+    },
+    {
+      "id": "13704",
+      "title": "Fishing: North Atlantic",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 373,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/fishing-north-atlantic-13704.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/fishing-north-atlantic.webp?v=11997aab"
+    },
+    {
+      "id": "7603",
+      "title": "Bear's can't draft",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1454,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/bear-s-can-t-draft-7603.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3529be1bbe8.webp?v=1bcef5d8"
+    },
+    {
+      "id": "7599",
+      "title": "Batman the telltale series",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4391,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/batman-the-telltale-series-7599.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/batman-the-telltale-series.webp?v=9b0ead00"
+    },
+    {
+      "id": "7604",
+      "title": "Twin mirror",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1138,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/twin-mirror-7604.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/twin-mirror.webp?v=6caf8872"
+    },
+    {
+      "id": "7617",
+      "title": "Poppy playtime 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9425,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/poppy-playtime-3-7617.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/poppy-playtime-3.webp?v=8a7cf651"
+    },
+    {
+      "id": "7612",
+      "title": "Middle earth shadow of the Mordor",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4448,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/middle-earth-shadow-of-the-mordor-7612.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/middle-earth-shadow-of-the-mordor.webp?v=ce5d7502"
+    },
+    {
+      "id": "7611",
+      "title": "Sinner Sacrifice for Redemption",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1030,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/sinner-sacrifice-for-redemption-7611.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sinner-sacrifice-for-redemption.webp?v=f12a6a74"
+    },
+    {
+      "id": "7616",
+      "title": "Neva",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 925,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/neva-7616.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/neva.webp?v=479f499d"
+    },
+    {
+      "id": "7619",
+      "title": "Looney Tunes - Acme Arsenal",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 920,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/looney-tunes-acme-arsenal-7619.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/looney-tunes-acme-arsenal.webp?v=6869efe0"
+    },
+    {
+      "id": "7620",
+      "title": "Ghost rider",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1160,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/ghost-rider-7620.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/ghost-rider.webp?v=df27d2e2"
+    },
+    {
+      "id": "7623",
+      "title": "Devil may cry 4 special edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2889,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/devil-may-cry-4-special-edition-7623.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/devil-may-cry-4-special-edition.webp?v=477bdb55"
+    },
+    {
+      "id": "7628",
+      "title": "DMC: Devil May Cry - Definitive edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1897,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/dmc-devil-may-cry-definitive-edition-7628.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a5f594a00cee.webp?v=7bb16972"
+    },
+    {
+      "id": "7629",
+      "title": "Teenage Mutant Ninja Turtles - Mutant Melee",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 860,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/teenage-mutant-ninja-turtles-mutant-melee-7629.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/teenage-mutant-ninja-turtles-mutant-melee.webp?v=bd9e928c"
+    },
+    {
+      "id": "7630",
+      "title": "Cold Winter",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 210,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/cold-winter-7630.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/cold-winter.webp?v=fbaafc6e"
+    },
+    {
+      "id": "7634",
+      "title": "Ruiner",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب قوائم فقط"
+      ],
+      "badges": [],
+      "downloads": 495,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/ruiner-7634.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/ruiner.webp?v=77bb14f6"
+    },
+    {
+      "id": "7639",
+      "title": "Family Guy - The Video Game",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 702,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/family-guy-the-video-game-7639.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a63fe50bbb68.webp?v=08fb104b"
+    },
+    {
+      "id": "7645",
+      "title": "Incredible Hulk The - Ultimate Destruction",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 706,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/incredible-hulk-the-ultimate-destruction-7645.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/incredible-hulk-the-ultimate-destruction.webp?v=8cc0225c"
+    },
+    {
+      "id": "7647",
+      "title": "Dino Crisis",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 505,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/dino-crisis-7647.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/dino-crisis.webp?v=767c2343"
+    },
+    {
+      "id": "7655",
+      "title": "Deliver Us Mars",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 508,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/deliver-us-mars-7655.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/deliver-us-mars.webp?v=572201a4"
+    },
+    {
+      "id": "7656",
+      "title": "Little big planet 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1378,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/little-big-planet-3-7656.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/little-big-planet-3.webp?v=0dd6049f"
+    },
+    {
+      "id": "7659",
+      "title": "Poppy playtime 4",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6956,
+      "rating": 2.7,
+      "url": "https://pspkg.com/arabic-games/poppy-playtime-4-7659.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/poppy-playtime-4.webp?v=58b4095f"
+    },
+    {
+      "id": "7662",
+      "title": "Gungrave G.O.R.E",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 851,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/gungrave-g-o-r-e-7662.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/gungrave-g-o-r-e.webp?v=de8aa43e"
+    },
+    {
+      "id": "7903",
+      "title": "Omensight",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 79,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/omensight-7903.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/omensight.webp?v=84cb1774"
+    },
+    {
+      "id": "7904",
+      "title": "Baldo The guardian owls",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 394,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/baldo-the-guardian-owls-7904.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/baldo-the-guardian-owls.webp?v=b5d62aa6"
+    },
+    {
+      "id": "7905",
+      "title": "Feudal Alloy",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 387,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/feudal-alloy-7905.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/feudal-alloy.webp?v=5a794da4"
+    },
+    {
+      "id": "9859",
+      "title": "One Piece Odyssey",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1822,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/one-piece-odyssey-9859.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a9cca8336c5c.webp?v=d3c7d165"
+    },
+    {
+      "id": "9862",
+      "title": "Charons Staircase",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 365,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/charons-staircase-9862.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/charons-staircase.webp?v=ddbc86dc"
+    },
+    {
+      "id": "9860",
+      "title": "HEAVENLY BODIES CLEANUP",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 212,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/heavenly-bodies-cleanup-9860.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/heavenly-bodies-cleanup.webp?v=4b2e12b4"
+    },
+    {
+      "id": "9863",
+      "title": "Samurai Jack: Battle Through Time",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4377,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/samurai-jack-battle-through-time-9863.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/samurai-jack-battle-through-time.webp?v=c336346c"
+    },
+    {
+      "id": "9865",
+      "title": "Tropico 6",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1395,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/tropico-6-9865.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/tropico-6.webp?v=668f3321"
+    },
+    {
+      "id": "9966",
+      "title": "Untitled Goose Game",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1582,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/untitled-goose-game-9966.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/untitled-goose-game.webp?v=cdf6581c"
+    },
+    {
+      "id": "9968",
+      "title": "SOULCALIBUR VI",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 775,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/soulcalibur-vi-9968.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/soulcalibur-vi.webp?v=8808eda0"
+    },
+    {
+      "id": "9969",
+      "title": "Asterigos: Curse of The Stars",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 384,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/asterigos-curse-of-the-stars-9969.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/asterigos-curse-of-the-stars.webp?v=2ef3dce7"
+    },
+    {
+      "id": "9970",
+      "title": "Absolver",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 278,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/absolver-9970.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/absolver.webp?v=3384ace9"
+    },
+    {
+      "id": "12359",
+      "title": "Captain Tsubasa: Rise of New Champio",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3038,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/captain-tsubasa-rise-of-new-champio-12359.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/captain-tsubasa-rise-of-new-champio.webp?v=d9dbc51d"
+    },
+    {
+      "id": "7900",
+      "title": "eFootball PES 2027 Eleven Patch",
+      "platform": "PS4",
+      "arabic_localization": [
+        "التعليقات والقوائم باللغة العربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11417,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2027-eleven-patch-7900.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-2027-eleven-patch.webp?v=400c3241"
+    },
+    {
+      "id": "7687",
+      "title": "Disney epic Mickey rebrushed",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1324,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/disney-epic-mickey-rebrushed-7687.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/disney-epic-mickey-rebrushed.webp?v=89db09d8"
+    },
+    {
+      "id": "7898",
+      "title": "Ancestors: The Humankind Odyssey",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1255,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/ancestors-the-humankind-odyssey-7898.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/ancestors-the-humankind-odyssey.webp?v=0e080857"
+    },
+    {
+      "id": "213",
+      "title": "Resident Evil 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 38614,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/resident-evil-3-arabic-213.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69480d837091c.png?v=979d472a"
+    },
+    {
+      "id": "7034",
+      "title": "PES 2025 SGR PATCH",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3905,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/pes-2025-sgr-patch-7034.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693c112b78c2d.png?v=1f50d073"
+    },
+    {
+      "id": "7897",
+      "title": "Scholar's Mate",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 967,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/scholar-s-mate-7897.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/scholar-s-mate.webp?v=908075ea"
+    },
+    {
+      "id": "7701",
+      "title": "Darksiders Genesis",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 346,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/darksiders-genesis-7701.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/darksiders-genesis.webp?v=350a7f5e"
+    },
+    {
+      "id": "7585",
+      "title": "Just cause 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2453,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/just-cause-3-7585.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0881a11c4d5.webp?v=7eb5ac36"
+    },
+    {
+      "id": "95",
+      "title": "Tom Clancy's Rainbow Six Siege",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2413,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/tom-clancys-rainbow-six-siege-arabic-95.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a2d7ab92cd34.webp?v=812b4ba2"
+    },
+    {
+      "id": "7700",
+      "title": "Lego brawl",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمه"
+      ],
+      "badges": [],
+      "downloads": 344,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/lego-brawl-7700.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a971eb24e973.webp?v=601ac804"
+    },
+    {
+      "id": "205",
+      "title": "Far Cry 5 Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14773,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/far-cry-5-gold-edition-arabic-205.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69336f5cdfac6.webp?v=eae27d77"
+    },
+    {
+      "id": "7654",
+      "title": "Blasphemous",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2335,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/blasphemous-7654.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/blasphemous.webp?v=e2a7555f"
+    },
+    {
+      "id": "70",
+      "title": "Silver Chains",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 610,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/silver-chains-arabic-70.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a62ab6df2aac.webp?v=7cbbc409"
+    },
+    {
+      "id": "7640",
+      "title": "Resident evil 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1319,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/resident-evil-3-7640.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/resident-evil-3.webp?v=6531b32f"
+    },
+    {
+      "id": "7644",
+      "title": "Silent hill",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1026,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/silent-hill-7644.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/silent-hill.webp?v=ef0b9a69"
+    },
+    {
+      "id": "6929",
+      "title": "QUBE 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1249,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/q-u-b-e-2-6929.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69b42a0683d28.webp?v=e0308d73"
+    },
+    {
+      "id": "7680",
+      "title": "BEE Simulator",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 589,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/bee-simulator-7680.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/bee-simulator.webp?v=73f124c7"
+    },
+    {
+      "id": "6928",
+      "title": "Fe",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1653,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/fe-6928.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6925bf4dd2b4d.webp?v=20c1945e"
+    },
+    {
+      "id": "7685",
+      "title": "Layers of Fear 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 502,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/layers-of-fear-2-7685.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/layers-of-fear-2.webp?v=1b9a8060"
+    },
+    {
+      "id": "7686",
+      "title": "Genesis Alpha One",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 279,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/genesis-alpha-one-7686.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/genesis-alpha-one.webp?v=fbd3230f"
+    },
+    {
+      "id": "7107",
+      "title": "Exit 8",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3511,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/exit-8-7107.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/exit-8.webp?v=09676fac"
+    },
+    {
+      "id": "7688",
+      "title": "Shadow of the beast",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 180,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/shadow-of-the-beast-7688.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/shadow-of-the-beast.webp?v=6069cecf"
+    },
+    {
+      "id": "7663",
+      "title": "Overcooked",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1936,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/overcooked-7663.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/overcooked.webp?v=19d47109"
+    },
+    {
+      "id": "7673",
+      "title": "Hunting Simulator 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2406,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/hunting-simulator-2-7673.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/hunting-simulator-2.webp?v=338635ee"
+    },
+    {
+      "id": "7608",
+      "title": "Inside",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10129,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/inside-7608.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/inside.webp?v=3133f88c"
+    },
+    {
+      "id": "7653",
+      "title": "TOHU",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 323,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/tohu-7653.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/tohu.webp?v=68aea522"
+    },
+    {
+      "id": "7698",
+      "title": "Car mechanic simulator",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3378,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/car-mechanic-simulator-7698.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/car-mechanic-simulator.webp?v=c570c225"
+    },
+    {
+      "id": "7695",
+      "title": "Spyro Reignited Trilogy PROPER",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات ومدبلجه"
+      ],
+      "badges": [],
+      "downloads": 939,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/spyro-reignited-trilogy-proper-7695.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a94a3308fb8c.webp?v=f0a5944c"
+    },
+    {
+      "id": "72",
+      "title": "Chernobylite",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2032,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/chernobylite-arabic-72.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a003d8550ce6.webp?v=32bb90e8"
+    },
+    {
+      "id": "7679",
+      "title": "eFootball pes 26",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1354,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-26-7679.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-26.webp?v=333943ff"
+    },
+    {
+      "id": "7622",
+      "title": "Efootball PES 21 bitbox patch season summer 2027 update world cup edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 41745,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-21-bitbox-patch-season-summer-2027-update-world-cup-edition-7622.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-21-bitbox-patch-season-summer-2027-update-world-cup-edition.webp?v=2175f8c5"
+    },
+    {
+      "id": "130",
+      "title": "The Last Guardian",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3672,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/the-last-guardian-arabic-130.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69f7d945d9e28.webp?v=9b861925"
+    },
+    {
+      "id": "118",
+      "title": "Gran Turismo Sport",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5188,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/gran-turismo-sport-arabic-118.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69f553daad8fc.webp?v=5ef05993"
+    },
+    {
+      "id": "181",
+      "title": "Call of Duty Modern Warfare 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 18211,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-3-arabic-181.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693ca418caaef.webp?v=fc221309"
+    },
+    {
+      "id": "157",
+      "title": "Batman Arkham Knight",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 22438,
+      "rating": 2.9,
+      "url": "https://pspkg.com/arabic-games/batman-arkham-knight-arabic-157.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c9b400d926a.webp?v=6c4b761a"
+    },
+    {
+      "id": "187",
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 24691,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/tom-clancys-ghost-recon-wildlands-arabic-187.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69303be149513.webp?v=31fefc0e"
+    },
+    {
+      "id": "108",
+      "title": "Concrete Genie",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2378,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/concrete-genie-arabic-108.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a15b81fa4442.webp?v=a3c65c29"
+    },
+    {
+      "id": "188",
+      "title": "just Cause 4",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10608,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/just-cause-4-arabic-188.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0ba1bc46f60.webp?v=9dcb88e0"
+    },
+    {
+      "id": "109",
+      "title": "eFootball PES 2025 Season Monster Patch",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2063,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2025-season-monster-patch-arabic-109.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69530e0b11a97.webp?v=2723d092"
+    },
+    {
+      "id": "110",
+      "title": "PES 2019 EVOSWITCHER AMA PATCH",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 17758,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/new-pes-2019-evoswitcher-ama-patch-arabic-110.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a0236c2d313.webp?v=5f93f983"
+    },
+    {
+      "id": "112",
+      "title": "Life Is Strange Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4639,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/life-is-strange-remastered-arabic-112.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a8356881559.webp?v=7f6ffaa6"
+    },
+    {
+      "id": "113",
+      "title": "Need for Speed Heat Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 41057,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/need-for-speed-heat-deluxe-edition-arabic-113.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6980b370e2ce2.webp?v=73278a4a"
+    },
+    {
+      "id": "115",
+      "title": "Silent Hill 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة مشاهد"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2618,
+      "rating": 3.1,
+      "url": "https://pspkg.com/arabic-games/silent-hill-3-arabic-3-115.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69add75fa4ace.webp?v=2b44928a"
+    },
+    {
+      "id": "116",
+      "title": "Prince of Persia The Two Thrones",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4131,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/prince-of-persia-the-two-thrones-arabic-116.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cd0b39eed68.webp?v=c45147de"
+    },
+    {
+      "id": "117",
+      "title": "Brothers A Tale of Two Sons",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11112,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/brothers-a-tale-of-two-sons-arabic-117.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dd7356eb4b4.webp?v=eb160de1"
+    },
+    {
+      "id": "229",
+      "title": "Horizon Forbidden West",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة + مدبجلة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16795,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/horizon-forbidden-west-arabic-229.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c6bbd8a58d0.webp?v=57aeee35"
+    },
+    {
+      "id": "119",
+      "title": "Crash Bandicoot 4 Its About Time",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 21232,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/crash-bandicoot-4-its-about-time-arabic-119.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69af347bd84ba.webp?v=07e1cd7d"
+    },
+    {
+      "id": "233",
+      "title": "Uncharted The Nathan Drake Collection",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 31703,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/uncharted-the-nathan-drake-collection-arabic-233.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/698c809378761.webp?v=e1654211"
+    },
+    {
+      "id": "121",
+      "title": "Minecraft Dungeons Ultimate Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6686,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/minecraft-dungeons-ultimate-edition-arabic-121.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6bbf348dfae.webp?v=4c56ff4c"
+    },
+    {
+      "id": "122",
+      "title": "Minecraft Legends",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3211,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/minecraft-legends-arabic-122.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a753e9355d83.webp?v=a0a080f4"
+    },
+    {
+      "id": "128",
+      "title": "WWE 2K17",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2304,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/wwe-2k17-arabic-128.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6a89663d806.webp?v=76dc611d"
+    },
+    {
+      "id": "200",
+      "title": "Shadow of The Tomb Raider",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 31804,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/shadow-of-the-tomb-raider-arabic-200.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/695155ee956e7.webp?v=3644a684"
+    },
+    {
+      "id": "129",
+      "title": "Kingdom Hearts 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1249,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/kingdom-hearts-3-arabic-129.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6427662c2ce.webp?v=d1f491a4"
+    },
+    {
+      "id": "204",
+      "title": "Far Cry New Dawn Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5423,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/far-cry-new-dawn-deluxe-edition-arabic-204.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69f167054d55c.webp?v=274ad478"
+    },
+    {
+      "id": "211",
+      "title": "Devil May Cry HD Collection",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5139,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/devil-may-cry-hd-collection-arabic-211.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6c20cbc7d34.webp?v=eb163727"
+    },
+    {
+      "id": "212",
+      "title": "Resident Evil Village Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب كامل"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 55893,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/resident-evil-village-gold-edition-arabic-212.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694927d3d813e.webp?v=1534b76d"
+    },
+    {
+      "id": "219",
+      "title": "Watch Dogs 2 Gold edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16983,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/watch-dogs-2-gold-edition-arabic-219.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945459d77ec0.webp?v=c0e190d8"
+    },
+    {
+      "id": "7102",
+      "title": "eFootball PES MegaPatch 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3406,
+      "rating": 3.6,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-megapatch-3-7102.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-megapatch-3.jpg?v=c9d9edbf"
+    },
+    {
+      "id": "132",
+      "title": "WRC Generations The FIA WRC Official Game",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2785,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/wrc-generations-the-fia-wrc-official-game-arabic-132.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6ec671e793e.webp?v=65ded535"
+    },
+    {
+      "id": "237",
+      "title": "Elden Ring Nightreign",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8210,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/elden-ring-nightreign-arabic-237.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694eb8dc8d0e1.webp?v=539fd53b"
+    },
+    {
+      "id": "7117",
+      "title": "FIFA 16",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3798,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/fifa-16-7117.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/fifa-16.webp?v=860b37e2"
+    },
+    {
+      "id": "133",
+      "title": "Crash Team Racing Nitro Fueled",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23555,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/crash-team-racing-nitro-fueled-arabic-133.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c9ac45767f7.webp?v=9fc3d715"
+    },
+    {
+      "id": "7120",
+      "title": "FIFA 19",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6893,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/fifa-19-7120.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/fifa-19.webp?v=ac3870fc"
+    },
+    {
+      "id": "7127",
+      "title": "The Crew 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 26777,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/the-crew-2-7127.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-crew-2.webp?v=ffa1e107"
+    },
+    {
+      "id": "134",
+      "title": "WWE 2K Battlegrounds",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1841,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/wwe-2k-battlegrounds-arabic-134.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a62a7eade882.webp?v=02522a2b"
+    },
+    {
+      "id": "7135",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13594,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/pes-2013-pro-evolution-soccer-7135.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2013-pro-evolution-soccer.webp?v=604f2c31"
+    },
+    {
+      "id": "135",
+      "title": "We Happy Few",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 643,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/we-happy-few-arabic-135.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6fba423dc29.webp?v=7f1de29e"
+    },
+    {
+      "id": "7137",
+      "title": "PES 2016: Pro Evolution Soccer",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8572,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/pes-2016-pro-evolution-soccer-7137.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2016-pro-evolution-soccer.webp?v=cb77649f"
+    },
+    {
+      "id": "186",
+      "title": "FIFA 23",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14496,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/fifa-23-arabic-186.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6987cfc453263.webp?v=9872ed9f"
+    },
+    {
+      "id": "7138",
+      "title": "PES 2017: Pro Evolution Soccer",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16008,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/pes-2017-pro-evolution-soccer-7138.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2017-pro-evolution-soccer.jpg?v=7a027419"
+    },
+    {
+      "id": "137",
+      "title": "Lara Croft GO",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 289,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/lara-croft-go-arabic-137.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a74473dd005a.webp?v=3988c7f8"
+    },
+    {
+      "id": "7151",
+      "title": "Assassins Creed The Ezio Collection",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7754,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-the-ezio-collection-7151.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/assassins-creed-the-ezio-collection.webp?v=fc394e99"
+    },
+    {
+      "id": "138",
+      "title": "Ratchet and Clank",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9280,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/ratchet-and-clank-arabic-138.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dfc2924ae15.webp?v=013d4071"
+    },
+    {
+      "id": "139",
+      "title": "Batman The Enemy Within The Telltale Series",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3120,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/batman-the-enemy-within-the-telltale-series-arabic-139.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0e411b489f7.webp?v=e00da03b"
+    },
+    {
+      "id": "192",
+      "title": "Assassins Creed Syndicate",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11532,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-syndicate-arabic-192.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69ada575b6515.webp?v=58a2fc6e"
+    },
+    {
+      "id": "140",
+      "title": "Naruto x Boruto Ultimate Ninja Storm Connections Ultimate Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16023,
+      "rating": 3.6,
+      "url": "https://pspkg.com/arabic-games/naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition-arabic-140.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6f67469c87d.webp?v=1385974e"
+    },
+    {
+      "id": "193",
+      "title": "Assassins Creed Unity",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 22322,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-unity-arabic-193.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a58ff636d8e.webp?v=bd686fd6"
+    },
+    {
+      "id": "141",
+      "title": "Cuphead Delicious Last Course",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 26613,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/cuphead-delicious-last-course-arabic-141.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cdb83d19cf2.webp?v=0f28b5d4"
+    },
+    {
+      "id": "142",
+      "title": "WWE 2K19",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2707,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/wwe-2k19-arabic-142.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/WWE%202K19.webp?v=a8baa565"
+    },
+    {
+      "id": "197",
+      "title": "Assassins Creed Origins",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 22553,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/assassins-creed-origins-arabic-197.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693ee2f300fd5.webp?v=85d8ce59"
+    },
+    {
+      "id": "7144",
+      "title": "eFootball PES 2026 SUMMER SEASON",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13422,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2026-summer-season-7144.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-2026-summer-season.webp?v=380a2d63"
+    },
+    {
+      "id": "201",
+      "title": "Rise of The Tomb Raider 20 Year",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 28235,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/rise-of-the-tomb-raider-20-year-arabic-201.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69514f2475f1b.webp?v=757b505c"
+    },
+    {
+      "id": "202",
+      "title": "Tomb Raider Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14958,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/tomb-raider-definitive-edition-arabic-202.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6951502f4f5f5.webp?v=854d6fae"
+    },
+    {
+      "id": "7136",
+      "title": "PES 2015: Pro Evolution Soccer",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2833,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/pes-2015-pro-evolution-soccer-7136.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2015-pro-evolution-soccer.webp?v=d0f3cac4"
+    },
+    {
+      "id": "203",
+      "title": "Far Cry 6",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 19141,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/far-cry-6-arabic-203.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6979286073139.webp?v=e2c0be24"
+    },
+    {
+      "id": "6926",
+      "title": "eFootball PES 21 DAENG PATCH SEASON SUMMER 2026 v1.50",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 462,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-21-daeng-patch-season-summer-2026-v150-arabic-6926.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a72ad7ae1955.webp?v=9b8b50fb"
+    },
+    {
+      "id": "144",
+      "title": "Erica",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1956,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/erica-arabic-144.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a601900d5b48.webp?v=0a09c884"
+    },
+    {
+      "id": "206",
+      "title": "Far Cry Primal Apex Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10073,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/far-cry-primal-apex-edition-arabic-206.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dcf4ec859ce.webp?v=7eabe3a1"
+    },
+    {
+      "id": "69",
+      "title": "Magic Hat",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 591,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/magic-hat-arabic-69.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692c6917d4f71.webp?v=14bfa6bb"
+    },
+    {
+      "id": "145",
+      "title": "FIFA 21",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3338,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/fifa-21-arabic-145.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6987cf719bd89.webp?v=2b24d495"
+    },
+    {
+      "id": "207",
+      "title": "Far Cry 3 Classic Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16452,
+      "rating": 3.4,
+      "url": "https://pspkg.com/arabic-games/far-cry-3-classic-edition-arabic-207.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dc1b5016cce.webp?v=69adc1e1"
+    },
+    {
+      "id": "7095",
+      "title": "PES eFootball DreamPatch 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمه وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8401,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/pes-efootball-dreampatch-2026-7095.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-efootball-dreampatch-2026.webp?v=7e185cc0"
+    },
+    {
+      "id": "146",
+      "title": "Unknown 9 Awakening",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2440,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/unknown-9-awakening-arabic-146.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cda77da6d60.webp?v=a5e00132"
+    },
+    {
+      "id": "7096",
+      "title": "Abo Khashem",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6597,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/abo-khashem-7096.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69f3f0dd0dc07.webp?v=ea3aed2b"
+    },
+    {
+      "id": "147",
+      "title": "FIFA 22",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9317,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/fifa-22-arabic-147.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6987cdb7025c8.webp?v=8d5e957f"
+    },
+    {
+      "id": "215",
+      "title": "Resident Evil 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب كامل"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 64610,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/resident-evil-2-arabic-215.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69492e81e9a56.webp?v=3b8a6142"
+    },
+    {
+      "id": "149",
+      "title": "The Town of Light",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 232,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-town-of-light-arabic-149.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6ee5b280b32.webp?v=f2217062"
+    },
+    {
+      "id": "220",
+      "title": "Bloodborne Game of The Year Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 31330,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/bloodborne-game-of-the-year-edition-arabic-220.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6945c47a51bfa.webp?v=ec8ce6ab"
+    },
+    {
+      "id": "150",
+      "title": "Maid of Sker",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2661,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/maid-of-sker-arabic-150.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a61361100999.webp?v=7ef605fc"
+    },
+    {
+      "id": "7099",
+      "title": "Severed Steel",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1537,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/severed-steel-7099.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/severed-steel.webp?v=77ab7864"
+    },
+    {
+      "id": "7100",
+      "title": "Hogwarts Legacy",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 28602,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/hogwarts-legacy-7100.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69733f184da1d.webp?v=9d94c898"
+    },
+    {
+      "id": "155",
+      "title": "Candleman",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2002,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/candleman-arabic-155.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69eb6eba14453.webp?v=2a79ea27"
+    },
+    {
+      "id": "7101",
+      "title": "PES eFootball SP FOOTBALL LIFE SEASON 2025/2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6431,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/pes-efootball-sp-football-life-season-2025-2026-7101.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-efootball-sp-football-life-season-2025-2026.webp?v=b33128cb"
+    },
+    {
+      "id": "156",
+      "title": "Middle Earth Shadow of War Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6721,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/middle-earth-shadow-of-war-definitive-edition-arabic-156.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a06133249f94.webp?v=1c9ac015"
+    },
+    {
+      "id": "7103",
+      "title": "Atomic Heart Premium Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3289,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/atomic-heart-premium-edition-7103.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/atomic-heart-premium-edition.webp?v=62b98e18"
+    },
+    {
+      "id": "7104",
+      "title": "Death Stranding",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7795,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/death-stranding-1-7104.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/death-stranding-1.webp?v=2be8328f"
+    },
+    {
+      "id": "159",
+      "title": "The Callisto Protocol",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8954,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/the-callisto-protocol-arabic-159.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69454e0230ad5.webp?v=140f6969"
+    },
+    {
+      "id": "160",
+      "title": "Control Ultimate Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6532,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/control-ultimate-edition-arabic-160.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cda6304ba6d.webp?v=b73ce398"
+    },
+    {
+      "id": "161",
+      "title": "Outlast trinity",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 11073,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/outlast-trinity-arabic-161.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694714632c6d1.jpg?v=bd4c9ab7"
+    },
+    {
+      "id": "7106",
+      "title": "Assassin's Creed Black Flag",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 32064,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/assassin-s-creed-black-flag-7106.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69791b303ab5d.webp?v=a9d34fb6"
+    },
+    {
+      "id": "165",
+      "title": "A Way Out",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 42901,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/a-way-out-arabic-165.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cd95ee37019.webp?v=9766527f"
+    },
+    {
+      "id": "223",
+      "title": "eFootball PES 2021 IQ 2026 SEASON UPDATE Patch",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4914,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2021-iq-2026-season-update-patch-arabic-223.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69530bc5b4d07.webp?v=115f8950"
+    },
+    {
+      "id": "7108",
+      "title": "Biomutant",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5193,
+      "rating": 3.1,
+      "url": "https://pspkg.com/arabic-games/biomutant-7108.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/biomutant.webp?v=5bca8566"
+    },
+    {
+      "id": "170",
+      "title": "Winning eleven 6 -  Final Evolution",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1644,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/winning-eleven-6-final-evolution-arabic-170.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/f67dbef76be941da0fd9fbd3f38d3836.webp?v=149e9677"
+    },
+    {
+      "id": "167",
+      "title": "FIFA 18",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9351,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/fifa-18-arabic-167.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/17%281%29.webp?v=5878a7ab"
+    },
+    {
+      "id": "7112",
+      "title": "Devil May Cry 3: Dante's Awakening",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3429,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/devil-may-cry-3-dante-s-awakening-7112.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/devil-may-cry-3-dante-s-awakening.webp?v=ba7609ee"
+    },
+    {
+      "id": "7113",
+      "title": "Citadel Forged With Fire",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 804,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/citadel-forged-with-fire-7113.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/citadel-forged-with-fire.webp?v=3501672e"
+    },
+    {
+      "id": "7618",
+      "title": "PES 2004",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1597,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/pes-2004-7618.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2004.webp?v=ad9d4d2b"
+    },
+    {
+      "id": "276",
+      "title": "Dead Island 2 Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7151,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/dead-island-2-gold-edition-arabic-276.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692d0034d9847.webp?v=db8e1af0"
+    },
+    {
+      "id": "7116",
+      "title": "Avatar The Last Airbender Quest for Balance",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2538,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/avatar-the-last-airbender-quest-for-balance-7116.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/avatar-the-last-airbender-quest-for-balance.webp?v=47267ca3"
+    },
+    {
+      "id": "278",
+      "title": "Resident Evil 5",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 15101,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/resident-evil-5-arabic-278.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694921ce8ad82.webp?v=07cdfd23"
+    },
+    {
+      "id": "168",
+      "title": "Hello Neighbor 2 Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2264,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/hello-neighbor-2-deluxe-edition-arabic-168.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/1%20%281%29%281%29.webp?v=006f52e9"
+    },
+    {
+      "id": "279",
+      "title": "Bully",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9601,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/bully-arabic-2-279.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692cfe52de9ab.webp?v=d3957710"
+    },
+    {
+      "id": "169",
+      "title": "Metaphor ReFantazio Atlus 35th Digital Anniversary Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 579,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/metaphor-refantazio-atlus-35th-digital-anniversary-edition-arabic-169.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a715428e7c67.webp?v=36366388"
+    },
+    {
+      "id": "2036",
+      "title": "Resident Evil 4 (2005)",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14530,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/resident-evil-4-2005-ps4-2036.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693f1ad6aa86a.webp?v=f48c04ff"
+    },
+    {
+      "id": "2131",
+      "title": "EFootball PES 2020",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10615,
+      "rating": 4.9,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2020-ps4-2131.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a14ed2519dcd.webp?v=a869ccbc"
+    },
+    {
+      "id": "2343",
+      "title": "The Awesome Adventures of Captain Spirit",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1595,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/the-awesome-adventures-of-captain-spirit-ps4-2343.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693ae86b73673.jpg?v=7cc532d7"
+    },
+    {
+      "id": "171",
+      "title": "The Evil Within 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 17751,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/the-evil-within-2-arabic-171.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a093565c190.webp?v=a4a042cf"
+    },
+    {
+      "id": "4835",
+      "title": "Jump Force",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 21749,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/jump-force-ps4-4835.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69ee3aa68b391.webp?v=20546457"
+    },
+    {
+      "id": "172",
+      "title": "NBA BOUNCE",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1783,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/nba-bounce-arabic-172.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a3492799a5e5.webp?v=1ff8a7b5"
+    },
+    {
+      "id": "7631",
+      "title": "Batman Return to Arkham",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم فقط"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2278,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/batman-return-to-arkham-7631.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/batman-return-to-arkham.webp?v=312ecfdf"
+    },
+    {
+      "id": "173",
+      "title": "Mafia 3 The Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23643,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/mafia-3-the-definitive-edition-arabic-173.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694eedf165cd3.webp?v=f7e6c855"
+    },
+    {
+      "id": "7635",
+      "title": "Subnautica",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1616,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/subnautica-7635.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/subnautica.webp?v=c37f3680"
+    },
+    {
+      "id": "7636",
+      "title": "Rubber Bandits",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2230,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/rubber-bandits-7636.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/rubber-bandits.webp?v=f490d0af"
+    },
+    {
+      "id": "7642",
+      "title": "WWE 2K24",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب قوائم"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4311,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/wwe-2k24-7642.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/wwe-2k24.webp?v=60a0dd96"
+    },
+    {
+      "id": "7554",
+      "title": "PES 2018 DAENG PATCH SEASON WINTER 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم+ وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9475,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/pes-2018-daeng-patch-season-winter-2026-7554.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69e8a145534e1.webp?v=0e163667"
+    },
+    {
+      "id": "7596",
+      "title": "Resident Evil Code Veronica",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2136,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/resident-evil-code-veronica-7596.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a2daa1c0ec27.webp?v=1796a48f"
+    },
+    {
+      "id": "7161",
+      "title": "Ben 10 Protector of Earth",
+      "platform": "PS4",
+      "arabic_localization": [
+        "دبلجة عربية"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2597,
+      "rating": 1.2,
+      "url": "https://pspkg.com/arabic-games/ben-10-protector-of-earth-7161.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69b05b0b94528.webp?v=8860a4e2"
+    },
+    {
+      "id": "7598",
+      "title": "Sonic riders",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [],
+      "downloads": 928,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/sonic-riders-7598.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/sonic-riders.webp?v=ba7e36c4"
+    },
+    {
+      "id": "7162",
+      "title": "eFootball PES 2026 SUMMER SEASON CUSA18740 Monster Patch DATAPACK 7.03",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب قوائم والتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9467,
+      "rating": 3.6,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2026-summer-season-cusa18740-monster-patch-datapack-7-03-7162.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-2026-summer-season-cusa18740-monster-patch-datapack-7-03.webp?v=7dd3ed2e"
+    },
+    {
+      "id": "7558",
+      "title": "PES efootball 2026 world cup edition (monster patch)",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب كامل"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 20020,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/pes-efootball-2026-world-cup-edition-monster-patch-7558.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-efootball-2026-world-cup-edition-monster-patch.webp?v=676b5876"
+    },
+    {
+      "id": "7583",
+      "title": "eFootball SP FOOTBALL LIFE 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب قوائم والتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6107,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/efootball-sp-football-life-2026-7583.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-sp-football-life-2026.webp?v=9ddc70b3"
+    },
+    {
+      "id": "7158",
+      "title": "Valiant Hearts Coming Home",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة قوائم و حورات"
+      ],
+      "badges": [],
+      "downloads": 918,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/valiant-hearts-coming-home-7158.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/valiant-hearts-coming-home.webp?v=af0a59d7"
+    },
+    {
+      "id": "7167",
+      "title": "Knack II",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة ودبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1229,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/knack-ii-7167.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dfc87e3014a.webp?v=456048af"
+    },
+    {
+      "id": "7169",
+      "title": "Hello neighbor",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2303,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/hello-neighbor-7169.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/hello-neighbor.webp?v=b4418237"
+    },
+    {
+      "id": "82",
+      "title": "Destroy All Humans 2 Reprobed Single Player",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1251,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/destroy-all-humans-2-reprobed-single-player-arabic-82.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0b0e5b5fb9f.webp?v=9778d5d2"
+    },
+    {
+      "id": "6956",
+      "title": "The Occupation",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [],
+      "downloads": 959,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/the-occupation-6956.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6949a86984bad.webp?v=2377f9eb"
+    },
+    {
+      "id": "80",
+      "title": "Monster Hunter Rise Sunbreak",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2067,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/monster-hunter-rise-sunbreak-arabic-80.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0e027761b4c.webp?v=f033ab37"
+    },
+    {
+      "id": "76",
+      "title": "F1 23",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1677,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/f1-23-arabic-76.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/F1%2023.webp?v=fbd7939d"
+    },
+    {
+      "id": "7581",
+      "title": "PAW Patrol Rescue Wheels Championship",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1594,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/paw-patrol-rescue-wheels-championship-7581.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/paw-patrol-rescue-wheels-championship.webp?v=0b794a03"
+    },
+    {
+      "id": "7010",
+      "title": "DESOLATIUM",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [],
+      "downloads": 801,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/n-a-7010.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0270a7ea6a6.webp?v=281715ca"
+    },
+    {
+      "id": "68",
+      "title": "Sayonara Wild Hearts",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 316,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/sayonara-wild-hearts-arabic-68.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0663cb58877.webp?v=a3f390d8"
+    },
+    {
+      "id": "7028",
+      "title": "Fobia St. Dinfna Hotel",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2830,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/fobia-st-dinfna-hotel-1-7028.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69de7ed077478.webp?v=36e425d5"
+    },
+    {
+      "id": "7032",
+      "title": "Call of Duty Black Ops IIII",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 12821,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-black-ops-iiii-7032.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6975ec44c6308.webp?v=6af97d7d"
+    },
+    {
+      "id": "7664",
+      "title": "Grand Theft Auto Shuan The Sheep",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1634,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-shuan-the-sheep-7664.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-shuan-the-sheep.webp?v=22cdb13a"
+    },
+    {
+      "id": "7035",
+      "title": "Resident Evil Origins Collection",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7234,
+      "rating": 4.6,
+      "url": "https://pspkg.com/arabic-games/resident-evil-origins-collection-7035.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694fa5a08eb2e.webp?v=80177fe9"
+    },
+    {
+      "id": "7037",
+      "title": "Resident Evil Revelations 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 19190,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/resident-evil-revelations-2-7037.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/694e55ae342ba.webp?v=7c39a5f9"
+    },
+    {
+      "id": "7062",
+      "title": "Call of Duty Modern Warfare 2 Campaign Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 15672,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-2-campaign-remastered-7062.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/call-of-duty-modern-warfare-2-campaign-remastered.webp?v=6cf75a28"
+    },
+    {
+      "id": "7079",
+      "title": "Lies of P",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 14663,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/lies-of-p-7079.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/lies-of-p.webp?v=488b0841"
+    },
+    {
+      "id": "7667",
+      "title": "Grand Theft Auto San Andreas Bolt",
+      "platform": "PS4",
+      "arabic_localization": [
+        "Arabic Music Only"
+      ],
+      "badges": [],
+      "downloads": 306,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-san-andreas-bolt-7667.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-san-andreas-bolt.webp?v=09853c7f"
+    },
+    {
+      "id": "7671",
+      "title": "Shadow warrior 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 399,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/shadow-warrior-3-7671.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/shadow-warrior-3.webp?v=06fb3cba"
+    },
+    {
+      "id": "75",
+      "title": "Sherlock Holmes The Awakened Deluxe Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2837,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/sherlock-holmes-the-awakened-deluxe-edition-arabic-75.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0034c365c6f.webp?v=d09bf415"
+    },
+    {
+      "id": "77",
+      "title": "Prince of Persia The Lost Crown",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5542,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/prince-of-persia-the-lost-crown-arabic-77.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c6e7e27e9cf.webp?v=28dd2c79"
+    },
+    {
+      "id": "79",
+      "title": "Resident Evil 6",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16802,
+      "rating": 3.1,
+      "url": "https://pspkg.com/arabic-games/resident-evil-6-arabic-79.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6949a31ad9848.webp?v=d1fe173d"
+    },
+    {
+      "id": "81",
+      "title": "Sackboy A Big Adventure",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5054,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/sackboy-a-big-adventure-arabic-81.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c7be1bd5250.webp?v=43ec517d"
+    },
+    {
+      "id": "7118",
+      "title": "EA SPORTS FC 24",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7651,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/ea-sports-fc-24-7118.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6987cf95174eb.webp?v=bc19986e"
+    },
+    {
+      "id": "83",
+      "title": "Viewfinder",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2215,
+      "rating": 2.3,
+      "url": "https://pspkg.com/arabic-games/viewfinder-arabic-83.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a0f84162c181.webp?v=fe9fc289"
+    },
+    {
+      "id": "7119",
+      "title": "FIFA 17",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 8349,
+      "rating": 4.3,
+      "url": "https://pspkg.com/arabic-games/fifa-17-7119.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69a1e4121081d.webp?v=2adee881"
+    },
+    {
+      "id": "84",
+      "title": "Jumanji Wild Adventures",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مدبلجة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2284,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/jumanji-wild-adventures-arabic-84.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a32ea3c4d41b.webp?v=68d30a95"
+    },
+    {
+      "id": "7157",
+      "title": "Fatal Frame Mask of The Lunar Eclipse",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1600,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/fatal-frame-mask-of-the-lunar-eclipse-7157.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a7578bd9db4f.webp?v=6e01383f"
+    },
+    {
+      "id": "85",
+      "title": "TT Isle of Man Ride on The Edge 3",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2889,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/tt-isle-of-man-ride-on-the-edge-3-arabic-85.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a68e4f0bb159.webp?v=3ef81541"
+    },
+    {
+      "id": "7165",
+      "title": "Dreams",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 646,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/dreams-7165.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/dreams.webp?v=16271644"
+    },
+    {
+      "id": "7121",
+      "title": "FIFA 20",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2727,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/fifa20-7121.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/fifa20.webp?v=738a6457"
+    },
+    {
+      "id": "7166",
+      "title": "Late Shift",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1315,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/late-shift-7166.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/late-shift.webp?v=19f01591"
+    },
+    {
+      "id": "87",
+      "title": "Cities Skylines",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5089,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/cities-skylines-arabic-87.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a7606a72cfd5.webp?v=c7e1249f"
+    },
+    {
+      "id": "7170",
+      "title": "Hello Neighbor Hide & Seek",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2527,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/hello-neighbor-1-7170.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cccf81320d1.webp?v=9eb53b50"
+    },
+    {
+      "id": "7122",
+      "title": "Rule of Rose",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1123,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/rule-of-rose-7122.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/698d525e1b399.webp?v=df334b22"
+    },
+    {
+      "id": "88",
+      "title": "Ben 10 Power Trip",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5986,
+      "rating": 3.8,
+      "url": "https://pspkg.com/arabic-games/ben-10-power-trip-arabic-88.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cccbd10d15e.webp?v=2a38a4a9"
+    },
+    {
+      "id": "7171",
+      "title": "Shadow of The Colossus",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 10356,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/shadow-of-the-colossus-7171.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cdadcb0a5ee.webp?v=a35f4223"
+    },
+    {
+      "id": "7123",
+      "title": "Call of Duty Advanced Warfare",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7118,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-advanced-warfare-7123.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/call-of-duty-advanced-warfare.webp?v=e3a54649"
+    },
+    {
+      "id": "7172",
+      "title": "Onimusha 2",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [],
+      "downloads": 874,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/onimusha-2-7172.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/onimusha-2.webp?v=1d0832c4"
+    },
+    {
+      "id": "7538",
+      "title": "Grand Theft Auto lll : The Definitive Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5065,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-3-the-definitive-edition-7538.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-3-the-definitive-edition.webp?v=b8dd669b"
+    },
+    {
+      "id": "7539",
+      "title": "Grand Theft Auto Vice City Definition Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7761,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-vice-city-definition-edition-7539.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-vice-city-definition-edition.webp?v=4aadd661"
+    },
+    {
+      "id": "7126",
+      "title": "eFootball PES SLADIMI PATCH 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5255,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-sladimi-patch-2026-2-7126.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/698f93fb2b344.webp?v=cb93980b"
+    },
+    {
+      "id": "7540",
+      "title": "Grand theft auto:San Andreas  the definition edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 26745,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-san-andreas-the-definition-edition-7540.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/grand-theft-auto-san-andreas-the-definition-edition.webp?v=a9fb9e6e"
+    },
+    {
+      "id": "7543",
+      "title": "Marvels Guardians of The Galaxy",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة قوائم و حورات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2665,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/marvels-guardians-of-the-galaxy-7543.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/marvels-guardians-of-the-galaxy.webp?v=a62178a8"
+    },
+    {
+      "id": "93",
+      "title": "eFootball PES 21 Dream Patch V4.0",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3210,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-21-dream-patch-v40-arabic-93.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a68ec5c1d2cc.webp?v=98dce83d"
+    },
+    {
+      "id": "7548",
+      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4310,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/teenage-mutant-ninja-turtles-mutants-unleashed-7548.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a00397085933.webp?v=17257e81"
+    },
+    {
+      "id": "7549",
+      "title": "MediEvil",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [],
+      "downloads": 638,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/edievil-7549.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/edievil.webp?v=9d7099d8"
+    },
+    {
+      "id": "7557",
+      "title": "Scars above",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1244,
+      "rating": 1.3,
+      "url": "https://pspkg.com/arabic-games/scars-above-7557.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69fe5b1a3550f.webp?v=977f6f5f"
+    },
+    {
+      "id": "96",
+      "title": "Marvel vs Capcom Infinite",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 910,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/marvel-vs-capcom-infinite-arabic-96.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/Marvel%20vs%20Capcom%20Infinite.webp?v=26657d5f"
+    },
+    {
+      "id": "7561",
+      "title": "Star wars jedi survivor",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 4088,
+      "rating": 2.8,
+      "url": "https://pspkg.com/arabic-games/star-wars-jedi-survivor-7561.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/star-wars-jedi-survivor.webp?v=17256f04"
+    },
+    {
+      "id": "97",
+      "title": "Remothered Tormented Fathers",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 790,
+      "rating": 3.3,
+      "url": "https://pspkg.com/arabic-games/remothered-tormented-fathers-arabic-97.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a002f1ebdd1d.webp?v=e2ef524f"
+    },
+    {
+      "id": "7567",
+      "title": "The Evil Within",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13429,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/the-evil-within-7567.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-evil-within.webp?v=90ef635b"
+    },
+    {
+      "id": "7574",
+      "title": "Sound shapes",
+      "platform": "PS4",
+      "arabic_localization": [],
+      "badges": [],
+      "downloads": 230,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/sound-shapes-7574.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69fe36265413b.webp?v=c2ae5cb2"
+    },
+    {
+      "id": "98",
+      "title": "PES 2025 BITBOX WINTER EDITION",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1911,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/pes-2025-bitbox-winter-edition-arabic-98.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/695306a9a61b4.webp?v=ed3d2c21"
+    },
+    {
+      "id": "7578",
+      "title": "DreamWorks Dragons Legends of The Nine Realms",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 565,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/dreamworks-dragons-legends-of-the-nine-realms-7578.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/dreamworks-dragons-legends-of-the-nine-realms.webp?v=5e2b6675"
+    },
+    {
+      "id": "99",
+      "title": "PES 2020 MONSTER PATCH",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3957,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/pes-2020-monster-patch-arabic-99.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/695307ab8d3d9.webp?v=ac627ab1"
+    },
+    {
+      "id": "7580",
+      "title": "Super Meat Boy Forever",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1227,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/super-meat-boy-forever-7580.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/super-meat-boy-forever.webp?v=62326dc7"
+    },
+    {
+      "id": "100",
+      "title": "PES 2020 to 2021 DREAM PATCH",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3415,
+      "rating": 1.0,
+      "url": "https://pspkg.com/arabic-games/pes-2020-to-2021-dream-patch-arabic-100.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69530a45e0dd0.webp?v=f899139d"
+    },
+    {
+      "id": "101",
+      "title": "Street Fighter 6",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6553,
+      "rating": 3.2,
+      "url": "https://pspkg.com/arabic-games/street-fighter-6-arabic-101.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69cda3d295d53.webp?v=38b3eff8"
+    },
+    {
+      "id": "7584",
+      "title": "Undertale",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3504,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/undertale-heath-7584.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/undertale-heath.webp?v=44d5ec30"
+    },
+    {
+      "id": "102",
+      "title": "BLEACH Rebirth of Souls Ultimate Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3261,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/bleach-rebirth-of-souls-ultimate-edition-arabic-102.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6657b7c24d3.webp?v=ec895663"
+    },
+    {
+      "id": "7586",
+      "title": "Five nights at Freddy's security breach",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1930,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/five-nights-at-freddy-s-security-breach-7586.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/five-nights-at-freddy-s-security-breach.webp?v=4be2c8f2"
+    },
+    {
+      "id": "103",
+      "title": "PES 2025 DAENG PATCH SUMMER EDITION",
+      "platform": "PS4",
+      "arabic_localization": [
+        "تعريب قوائم + تعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2488,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/pes-2025-daeng-patch-summer-edition-arabic-103.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6953089f04480.webp?v=6974ce5a"
+    },
+    {
+      "id": "179",
+      "title": "Call of Duty Vanguard",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9108,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-vanguard-arabic-179.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69451df57db92.webp?v=8f53295a"
+    },
+    {
+      "id": "7146",
+      "title": "Metro Exodus Gold Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وحوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 18205,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/metro-exodus-gold-edition-7146.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/metro-exodus-gold-edition.webp?v=b2005ea3"
+    },
+    {
+      "id": "105",
+      "title": "Vampyr",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2903,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/vampyr-arabic-105.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a6675c6e4f57.webp?v=65b9eea6"
+    },
+    {
+      "id": "7147",
+      "title": "Life is Strange Before the Storm Remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة قوائم و حورات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2180,
+      "rating": 3.1,
+      "url": "https://pspkg.com/arabic-games/life-is-strange-before-the-storm-remastered-7147.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/life-is-strange-before-the-storm-remastered.webp?v=219d0a31"
+    },
+    {
+      "id": "182",
+      "title": "Call of Duty Modern Warfare 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 25212,
+      "rating": 4.2,
+      "url": "https://pspkg.com/arabic-games/call-of-duty-modern-warfare-2-arabic-182.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/693c1a7028fb4.webp?v=4c5bde74"
+    },
+    {
+      "id": "7148",
+      "title": "Daymare 1998",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 2319,
+      "rating": 3.5,
+      "url": "https://pspkg.com/arabic-games/daymare-1998-7148.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/daymare-1998.webp?v=251c5ffd"
+    },
+    {
+      "id": "7155",
+      "title": "7th sector",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1209,
+      "rating": 1.2,
+      "url": "https://pspkg.com/arabic-games/7th-sector-7155.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69add1da6a742.webp?v=9ecff545"
+    },
+    {
+      "id": "7150",
+      "title": "Assassin's Creed Rogue remastered",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6118,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/assassin-s-creed-rogue-remastered-7150.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/assassin-s-creed-rogue-remastered.webp?v=c20bb2d9"
+    },
+    {
+      "id": "7152",
+      "title": "Remothered: Broken Porcelain",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1061,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/remothered-broken-porcelain-7152.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/remothered-broken-porcelain.webp?v=185e48a4"
+    },
+    {
+      "id": "7672",
+      "title": "Looney Tunes Wacky World of Sports",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1809,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/looney-tunes-wacky-world-of-sports-7672.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/looney-tunes-wacky-world-of-sports.webp?v=7ec2442a"
+    },
+    {
+      "id": "7153",
+      "title": "GRIS",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1002,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/gris-7153.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/gris.webp?v=4b55df75"
+    },
+    {
+      "id": "7674",
+      "title": "Prey",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [],
+      "downloads": 400,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/prey-7674.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/prey.webp?v=04b001a2"
+    },
+    {
+      "id": "7678",
+      "title": "The King of Fighters XV",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 675,
+      "rating": 0.0,
+      "url": "https://pspkg.com/arabic-games/the-king-of-fighters-xv-7678.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/the-king-of-fighters-xv.webp?v=77b917da"
+    },
+    {
+      "id": "7154",
+      "title": "Adam's Venture: Origins",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 749,
+      "rating": 3.0,
+      "url": "https://pspkg.com/arabic-games/adam-s-venture-origins-7154.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69ada4e006ef9.webp?v=0c836be9"
+    },
+    {
+      "id": "7681",
+      "title": "NieR: Automata Game of the YoRHa Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3233,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/nier-automata-game-of-the-yorha-edition-7681.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/nier-automata-game-of-the-yorha-edition.webp?v=d367eef1"
+    },
+    {
+      "id": "73",
+      "title": "eFootball PES 2025 Pro Life",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [],
+      "downloads": 434,
+      "rating": 2.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2025-pro-life-arabic-73.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/eFootball%20PES%202025%20Pro%20Life.webp?v=d2ddea18"
+    },
+    {
+      "id": "6930",
+      "title": "Grand Theft Auto San Andreas IQ النسخة العراقية",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 9336,
+      "rating": 4.8,
+      "url": "https://pspkg.com/arabic-games/grand-theft-auto-san-andreas-iq-6930.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a7186f4b5d08.webp?v=2f254e66"
+    },
+    {
+      "id": "7094",
+      "title": "Nioh 2 Complete Edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 5736,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/nioh-2-7094.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/696c38af9566a.webp?v=96bda159"
+    },
+    {
+      "id": "6931",
+      "title": "Pode",
+      "platform": "PS4",
+      "arabic_localization": [
+        "معربة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 1769,
+      "rating": 3.9,
+      "url": "https://pspkg.com/arabic-games/pode-6931.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c92ccf1d47f.webp?v=c70341de"
+    },
+    {
+      "id": "6932",
+      "title": "PES 2018",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة وتعليق عربي"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 19092,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/pes-2018-6932.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692d2a67a0e72.webp?v=caaa29ea"
+    },
+    {
+      "id": "6954",
+      "title": "GRIP",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3665,
+      "rating": 5.0,
+      "url": "https://pspkg.com/arabic-games/grip-6954.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/692d2b484b8dc.webp?v=54ee290e"
+    },
+    {
+      "id": "7081",
+      "title": "PES PRESS X-PATCH 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم وتعليق"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 13571,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/pes-press-x-patch-2026-7081.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-press-x-patch-2026.webp?v=df438e52"
+    },
+    {
+      "id": "7005",
+      "title": "PES 2018 Patch PES 2021",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمة كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 3426,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/pes-2018-patch-pes-2021-7005.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69fe39c8375e0.webp?v=f514cec8"
+    },
+    {
+      "id": "6969",
+      "title": "PES 2018 SGR Patch Summer 2026",
+      "platform": "PS4",
+      "arabic_localization": [
+        "ترجمه وتعليق كاملة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 25022,
+      "rating": 3.4,
+      "url": "https://pspkg.com/arabic-games/pes-2018-sgr-patch-summer-2026-6969.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes-2018-sgr-patch-summer-2026.webp?v=7813d159"
+    },
+    {
+      "id": "255",
+      "title": "EA SPORTS FC 26",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 167865,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/ea-sports-fc-26-arabic-255.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/EA%20SPORTS%20FC%2026.webp?v=fe131d7f"
+    },
+    {
+      "id": "250",
+      "title": "eFootball PES 2026 BITBOX PATCH SEASON SUMMER EDITION 25-26 UPDATE REVISI.2 DAYS 2",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 7092,
+      "rating": 4.1,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2026-bitbox-patch-season-summer-edition-2526-update-revisi2-days-2-arabic-250.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/efootball-pes-2026-bitbox-patch-season-summer-edition-2526-update-revisi2-days-2.webp?v=6c9882bb"
+    },
+    {
+      "id": "242",
+      "title": "PES 2021: Season Update",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 23969,
+      "rating": 4.4,
+      "url": "https://pspkg.com/arabic-games/pes-2021-orginal-arabic-242.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/pes2021.webp?v=e4a6222c"
+    },
+    {
+      "id": "241",
+      "title": "WWE 2K25",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 18760,
+      "rating": 3.7,
+      "url": "https://pspkg.com/arabic-games/wwe-2k25-arabic-2-241.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69c4a24aa0504.webp?v=f340f1b1"
+    },
+    {
+      "id": "240",
+      "title": "EA Sports FC 25",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 16290,
+      "rating": 4.7,
+      "url": "https://pspkg.com/arabic-games/ea-sports-fc-25-arabic-240.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/698c92b67de54.webp?v=335f5352"
+    },
+    {
+      "id": "239",
+      "title": "Devil May Cry 5 deluxe edition",
+      "platform": "PS4",
+      "arabic_localization": [
+        "قوائم + حوارات"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 18327,
+      "rating": 4.5,
+      "url": "https://pspkg.com/arabic-games/devil-may-cry-5-deluxe-edition-arabic-239.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69dc04e735f9c.webp?v=555d6702"
+    },
+    {
+      "id": "246",
+      "title": "eFootball PES 2026 Monster Patch",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 26622,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-2026-monster-patch-arabic-246.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/69530ed7952b9.webp?v=38db3aed"
+    },
+    {
+      "id": "245",
+      "title": "eFootball PES 21 DAENG PATCH SEASON SUMMER 2026 v1.50",
+      "platform": "PS4",
+      "arabic_localization": [
+        "مترجمة"
+      ],
+      "badges": [
+        "Popular"
+      ],
+      "downloads": 6119,
+      "rating": 4.0,
+      "url": "https://pspkg.com/arabic-games/efootball-pes-21-daeng-patch-season-summer-2026-v150-arabic-245.html",
+      "image_url": "https://img.pspkg.com/arabic-games/image/6a72ad7ae1955.webp?v=0266e33d"
+    }
+  ]
+}
